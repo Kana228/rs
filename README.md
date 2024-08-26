@@ -24,8 +24,11 @@ Usage
 Run the code: Execute the provided code to generate user profiles, calculate similarity matrices, generate recommendations, and evaluate the system.
 Modify datasets: Update the paths to your datasets as necessary.
 Evaluate: Check the precision, recall, and F-measure to assess the quality of recommendations.
+
 Requirements
 
 Python 3.x
+
 Pandas
+
 NumPy
